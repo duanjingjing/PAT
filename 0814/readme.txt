@@ -10,4 +10,9 @@ Creatinf a new branch is quick AND simple.
 Creating a new branch is quick and simple.
 hexuejun
 Creating a new branch is quick.
+<<<<<<< HEAD
 Creing a quick & simple.
+=======
+Creating a new breanck is quick And simple.
+>>>>>>> feature1
+Creating a new branch is qucik and siple.
