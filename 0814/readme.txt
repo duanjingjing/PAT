@@ -9,3 +9,4 @@ Creatinf a new branch is quick AND simple.
 >>>>>>> feature1
 Creating a new branch is quick and simple.
 hexuejun
+Creating a new branch is quick.
